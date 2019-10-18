@@ -1,0 +1,6 @@
+C:\Users\matthew\source\repos\IT_FDN_105_A\Complex Calculations\Complex Calculations\obj\Debug\Complex Calculations.csprojAssemblyReference.cache
+C:\Users\matthew\source\repos\IT_FDN_105_A\Complex Calculations\Complex Calculations\bin\Debug\Complex Calculations.exe.config
+C:\Users\matthew\source\repos\IT_FDN_105_A\Complex Calculations\Complex Calculations\bin\Debug\Complex Calculations.exe
+C:\Users\matthew\source\repos\IT_FDN_105_A\Complex Calculations\Complex Calculations\bin\Debug\Complex Calculations.pdb
+C:\Users\matthew\source\repos\IT_FDN_105_A\Complex Calculations\Complex Calculations\obj\Debug\Complex Calculations.exe
+C:\Users\matthew\source\repos\IT_FDN_105_A\Complex Calculations\Complex Calculations\obj\Debug\Complex Calculations.pdb

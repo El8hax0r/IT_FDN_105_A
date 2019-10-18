@@ -1,0 +1,6 @@
+C:\Users\matthew\source\repos\IT_FDN_105_A\WinProject1\WinProject1\bin\Debug\WinProject1.exe.config
+C:\Users\matthew\source\repos\IT_FDN_105_A\WinProject1\WinProject1\bin\Debug\WinProject1.exe
+C:\Users\matthew\source\repos\IT_FDN_105_A\WinProject1\WinProject1\bin\Debug\WinProject1.pdb
+C:\Users\matthew\source\repos\IT_FDN_105_A\WinProject1\WinProject1\obj\Debug\WinProject1.csprojAssemblyReference.cache
+C:\Users\matthew\source\repos\IT_FDN_105_A\WinProject1\WinProject1\obj\Debug\WinProject1.exe
+C:\Users\matthew\source\repos\IT_FDN_105_A\WinProject1\WinProject1\obj\Debug\WinProject1.pdb
