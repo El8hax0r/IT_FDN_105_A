@@ -1,0 +1,6 @@
+C:\Users\matthew\source\repos\IT_FDN_105_A\Find Smith\Find Smith\bin\Debug\Find Smith.exe.config
+C:\Users\matthew\source\repos\IT_FDN_105_A\Find Smith\Find Smith\bin\Debug\Find Smith.exe
+C:\Users\matthew\source\repos\IT_FDN_105_A\Find Smith\Find Smith\bin\Debug\Find Smith.pdb
+C:\Users\matthew\source\repos\IT_FDN_105_A\Find Smith\Find Smith\obj\Debug\Find Smith.csprojAssemblyReference.cache
+C:\Users\matthew\source\repos\IT_FDN_105_A\Find Smith\Find Smith\obj\Debug\Find Smith.exe
+C:\Users\matthew\source\repos\IT_FDN_105_A\Find Smith\Find Smith\obj\Debug\Find Smith.pdb
